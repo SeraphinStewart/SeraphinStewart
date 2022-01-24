@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SeraphinStewart
+- 👀 I’m interested in programming languages and the math about it.
+- 🌱 I’m currently learning how to write onw development enviroment.
+- 💞️ I’m looking to collaborate on open-sourse programming languages.
+- 📫 How to reach me -- just text me at my [email](seraph.stewart@gmail.com "seraph.stewart@gmail.com")
